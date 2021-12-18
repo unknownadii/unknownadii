@@ -42,12 +42,12 @@ Technology And Language used:-<br>
 <b><i>Android Studio, Kotlin, XML, SQLite,Firebase</b></i></br><br>
 
    </li>
-  <li>  <a href="https://github.com/unknownadii/Weather-App">Weather App</a>
+  <li>  <a href="https://github.com/unknownadii/Weather-App">Fooech</a>
   <br>
 Features:-<br>
-1. Get Details of Every Weather condition and be up to date
+1. Get Details of Every recipe and be up to date
 <br>
-2. Details Are getting with the help of <b><i>REST API</b></i> Calling
+2. Details are getting with the help of <b><i>REST API</b></i> Calling
 <br>
 3. Use of <b><i>Retrofit</b></i> and SharedPerference
 <br><br>
