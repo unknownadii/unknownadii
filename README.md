@@ -24,7 +24,7 @@
    <body> 
 <ul>
   <li> 
-  <a href="https://github.com/unknownadii/Spot-Fitness">SpotFitness</a>
+  <a href="https://github.com/unknownadii/Fooech">SpotFitness</a>
 <br>
 Features:-<br>
 1. Prefered Exercises for Different body parts and body types
