@@ -24,7 +24,7 @@
    <body> 
 <ul>
   <li> 
-  <a href="https://github.com/unknownadii/Fooech">SpotFitness</a>
+  <a href="https://github.com/unknownadii/Spot-Fitness">SpotFitness</a>
 <br>
 Features:-<br>
 1. Prefered Exercises for Different body parts and body types
@@ -42,10 +42,10 @@ Technology And Language used:-<br>
 <b><i>Android Studio, Kotlin, XML, SQLite,Firebase</b></i></br><br>
 
    </li>
-  <li>  <a href="https://github.com/unknownadii/Weather-App">Fooech</a>
+  <li>  <a href="https://github.com/unknownadii/FOOECH">Fooech</a>
   <br>
 Features:-<br>
-1. Get Details of Every recipe and be up to date
+1. Get Details of every recipe and be up to date
 <br>
 2. Details are getting with the help of <b><i>REST API</b></i> Calling
 <br>
