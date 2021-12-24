@@ -39,7 +39,7 @@ Features:-<br>
 <br>
 <br>
 Technology And Language used:-<br>
-<b><i>Android Studio, Kotlin, XML, SQLite,Firebase</b></i></br><br>
+<b><i>Android Studio, Kotlin, XML,Firebase</b></i></br><br>
 
    </li>
   <li>  <a href="https://github.com/unknownadii/FOOECH">Fooech</a>
