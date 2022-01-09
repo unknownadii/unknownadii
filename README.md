@@ -52,7 +52,7 @@ Features:-<br>
 3. Use of <b><i>Retrofit</b></i> and SharedPerference
 <br><br>
 
-Technology And Language used :-
+Technology And Language used  :-
 <br>
 <b><i>Android Studio, Kotlin, XML, Volley Libaray </b></i>
 </li>
