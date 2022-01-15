@@ -16,7 +16,7 @@
    </body>
    <H3>About me 	&#128640 </H3>
    <body>
-   🎓 I’m an Mobile Dev enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering.
+   🎓 I’m an Mobile Dev enthusiast & a junior pursuing my Bachelors in Computer Science & Engineering .
    <br>
    👨‍💻 I am passionate about Android Devlopment,Machine Learning,Backend Things & I enjoy learning new things. 
    </body>
