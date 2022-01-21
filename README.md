@@ -54,7 +54,7 @@ Features:-<br>
 
 Technology And Language used  :-
 <br>
-<b><i>Android Studio, Kotlin, XML, Volley Libaray </b></i>
+<b><i>Android Studio, Kotlin, XML, Volley Libaray</b></i>
 </li>
     <ul>
    </body>
