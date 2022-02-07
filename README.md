@@ -29,7 +29,7 @@
 Features:-<br>
 1. Prefered Exercises for Different body parts and body types
 <br>
-2. Maintain the records of all exercises that have been done
+2. Maintain the records of all exercises that have been done 
 <br>
 3. Get planned diet plan with colorie count
 <br>
